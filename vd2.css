@@ -1,0 +1,24 @@
+.tong 
+{
+    width: 325px;
+    height: 500px;
+}
+.tong .khoi {
+    width: 100%;
+    height: 25%;
+}
+.tong .khoi a {
+    float: left;
+    width: 60%;
+    text-decoration: none;
+}
+.tong .khoi img {
+    float: right;
+    width: 40%;
+}
+.tong .khoi a h1 {
+color: #222225;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+}
+.tong .khoi a h1:hover{color:blueviolet;}
